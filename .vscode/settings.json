@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/usr/bin/python2.7",
+    "python.linting.pylintPath": "/Users/spencervaradi 1/.virtualenvs/flask_secondary/bin/pylint"
+}
